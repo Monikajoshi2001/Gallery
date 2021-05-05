@@ -11,8 +11,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:numColumns="auto_fit"
-    android:horizontalSpacing="30dp"
-    android:verticalSpacing="30dp"
+    android:horizontalSpacing="10dp"
+    android:verticalSpacing="10dp"
     android:listSelector="@color/blue"/>
     <ImageButton
         android:id="@+id/cameraID"
